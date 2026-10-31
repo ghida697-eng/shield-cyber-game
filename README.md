@@ -14,8 +14,8 @@
 |---|---|
 | 🎮 Live demo | https://ghida697-eng.github.io/shield-cyber-game/ |
 | 💻 GitHub repository | https://github.com/ghida697-eng/shield-cyber-game |
-| 🎥 10-minute feature demo (MP4) | [https://youtu.be/t6UqSdMTNok?si=F7-f0kJIl4MmQbC7] |
-| 🎥 5-minute backup demo (MP4) | [ADD LINK] |
+| 🎥 5-minute feature demo (MP4) | [https://youtu.be/t6UqSdMTNok?si=F7-f0kJIl4MmQbC7] |
+| 🎥 3-minute backup demo (MP4) | [https://youtu.be/CTHOtQOSL10?si=W24Qi6h0b76EqQN1] |
 | 📊 Slides (Google Slides, public) | [ADD LINK] |
 | 📄 Slides (exported file) | `slides/` folder |
 | 🧾 Devpost | [ADD LINK] |
